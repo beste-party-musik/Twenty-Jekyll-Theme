@@ -1,11 +1,12 @@
 # Site settings
-title: Twenty Blog
-email: your-email@domain.com
+title: www.beste-party-musik.de
+email: kontakt@beste-party-musik.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
+  Profitieren Sie von unserer langjährigen Erfahrung, in den unterschiedlichsten Veranstaltungsformaten. 
+  Mit vielen erfolgreich gerockten Hochzeiten, Geburtstagen, Firmenevents und Ü30 / Ü40 / Ü50 Partys, 
+  sowohl im Kölner und Bonner Raum als auch im Oberbergischen Kreis, 
+  können wir auch Ihre Feier mit unserem Erfahrungsschatz und reichlich guter Musik begleiten.
+baseurl: "/Twenty-Jekyll-Theme" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
